@@ -1,0 +1,226 @@
+@font-face {
+    font-family: "Inter";
+    src: url(./assets/fonts/Inter-Regular.ttf);
+}
+
+
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #000000;
+
+    
+    margin-top: 85px;
+}
+
+#th_id {
+    background: #F9F9F9;
+    border: 1px solid #DADADA;
+
+    width: 72px;
+    height: 57px;
+
+    box-sizing: border-box;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#th_title {
+    background: #F9F9F9;
+    border: 1px solid #DADADA;
+
+    width: 444px;
+    height: 57px;
+
+    box-sizing: border-box;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+
+    
+
+
+
+    
+}
+
+#th_created_at {
+    background: #F9F9F9;
+    border: 1px solid #DADADA;
+
+    width: 276px;
+    height: 57px;
+
+    box-sizing: border-box;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#th_action {
+    background: #F9F9F9;
+    border: 1px solid #DADADA;
+
+    width: 368px;
+    height: 57px;
+
+    box-sizing: border-box;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#td_id {
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+
+    width: 72px;
+    height: 57px;
+
+    box-sizing: border-box;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+
+    padding-left: 32px;
+    
+}
+
+#td_title {
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+
+    width: 444px;
+    height: 57px;
+
+    box-sizing: border-box;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+
+    padding-left: 23px;
+}
+
+#td_created_at {
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+
+    width: 276px;
+    height: 57px;
+
+    box-sizing: border-box;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    padding-left: 97px;
+    
+
+    color: #000000;
+
+   
+
+}
+
+#td_action {
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+
+    width: 368px;
+    height: 57px;
+
+    box-sizing: border-box;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#button1 {
+    background: #FFD43A;
+    border-radius: 10px;
+
+    width: 115px;
+    height: 36px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+
+    border: none;
+    margin-left: 75px;
+}
+
+#button2 {
+    background: #E84949;
+    border-radius: 10px;
+
+    width: 115px;
+    height: 36px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+
+    border: none;
+    }
+
+    table {
+        border-collapse: collapse;
+    }
